@@ -52,6 +52,9 @@
     <None Include="OrderCreationIndividualdownload.webtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="QAOrderCreationIndividualdownload.webtest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="pdfnames.csv" />
     <None Include="UserID.csv" />
     <None Include="WebTest1_original.webtest">
